@@ -11,12 +11,12 @@ Among all children under 18 years of age, approximately 11 percent in low-income
 Our goal is to build an application that provide a multi-party network through an NGO that help underprivileged and poor children get clothes, heath care and other amenities to slightly alleviate their distress. 
 Application Entities:
 •	NGO- Intermediary between various enterprises
-o	Admins-Handles the payroll and employees.
-o	Employees- Handles the volunteers and other enterprises
-o	Volunteers-Handles the real day- to -day of the NGO
+  o	Admins-Handles the payroll and employees.
+  o	Employees- Handles the volunteers and other enterprises
+  o	Volunteers-Handles the real day- to -day of the NGO
 •	Health Services-Provide free or low-cost health care to children
-o	Organizers-Organize heath drives
-o	Doctors- Provide medical support
+  o	Organizers-Organize heath drives
+  o	Doctors- Provide medical support
 •	Transport- Provide transport to different entities to deliver things. Schedule deliveries.
 •	Garments- Provide excess and unused clothes to the children through the NGO.
 These are the different organization that will be interconnected through a network and have a constant communication through work requests.
